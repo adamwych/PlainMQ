@@ -1,0 +1,5 @@
+#pragma once
+
+#define PLAINMQ_MAJOR_VERSION 1
+#define PLAINMQ_MINOR_VERSION 0
+#define PLAINMQ_PATCH_VERSION 0

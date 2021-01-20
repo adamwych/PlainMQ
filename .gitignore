@@ -1,0 +1,4 @@
+Build/*
+ThirdParty/*
+.DS_Store
+.vscode
