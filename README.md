@@ -10,9 +10,10 @@ reliability is important. It does not validate message integrity in any way.
 - Low CPU, memory and bandwidth usage.
 
 ## Dependencies
-- CMake >= 3.19
+- CMake >= 3.15
 - WebSocket++ (https://github.com/zaphoyd/websocketpp)
 - Nlohmann JSON library (https://github.com/nlohmann/json)
+- Boost library (tested with 1.75)
 
 ## Building
 ```
